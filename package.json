@@ -1,6 +1,6 @@
 {
-  "name": "leader-line-new",
-  "version": "1.1.9",
+  "name": "sango-leader-line-new",
+  "version": "1.1.10",
   "title": "LeaderLine",
   "description": "Draw a leader line in your web page. Export lib",
   "keywords": [
@@ -39,12 +39,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com:II-alex-II/leader-line-new.git"
+    "url": "https://github.com/raiblaze/leader-line-new"
   },
-  "bugs": "https://github.com/II-alex-II/leader-line/issues",
+  "bugs": "https://github.com/raiblaze/leader-line-new/issues",
   "license": "MIT",
-  "authors": [
-    "anseki <AnSeki.aff@gmail.com>",
-    "modify: <radchenko.oskh@gmail.com>"
-  ]
+  "authors": "Rai Blaze"
 }

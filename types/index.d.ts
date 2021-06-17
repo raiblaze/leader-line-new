@@ -177,7 +177,7 @@ declare class LeaderLine {
 
     constructor(options: LeaderLine.Options);
     constructor(start: Element | LeaderLine.AnchorAttachment, end: Element | LeaderLine.AnchorAttachment, options?: LeaderLine.Options);
-
+    static positionByWindowResize: boolean
     static pointAnchor(options: LeaderLine.PointAnchorOptions): LeaderLine.AnchorAttachment;
     static pointAnchor(element: LeaderLine.Element, options?: LeaderLine.PointAnchorOptions): LeaderLine.AnchorAttachment;
 
